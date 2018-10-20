@@ -1,1 +1,0 @@
-# Crazy-Cat-Person-Predictor
